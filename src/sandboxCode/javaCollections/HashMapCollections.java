@@ -2,7 +2,7 @@ package sandboxCode.javaCollections;
 
 import java.util.HashMap;
 
-//importing the static hashmap//hey
+//importing the static hashmap//hey//
 public class HashMapCollections {
 	
 	//creating the parameters being string and boolean for hashmap
