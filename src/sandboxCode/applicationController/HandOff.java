@@ -5,14 +5,14 @@ package sandboxCode.applicationController;
  */
 public class HandOff {
 
-    //creating fields for specified URLS
+    //creating fields for specified URLS can linking them to variables
     private CatUrl Cats;
     private DogUrl Dogs;
     private TurtleUrl Turtles;
 
     public HandOff() {
 
-
+        //creating object for URL class
         Cats = new CatUrl();
         Dogs = new DogUrl();
         Turtles = new TurtleUrl();
